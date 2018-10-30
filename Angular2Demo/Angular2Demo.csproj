@@ -101,6 +101,7 @@
     <Content Include="src\app\employee\employeeCount.component.html" />
     <Content Include="src\app\employee\employeeList.component.css" />
     <Content Include="src\app\employee\employeeList.component.html" />
+    <Content Include="src\DemoStyleSheet.css" />
     <Content Include="src\favicon.ico" />
     <Content Include="src\index.html" />
     <Content Include="src\styles.css" />
